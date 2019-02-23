@@ -1,0 +1,20 @@
+八大数据类型：
+boolean（布尔型）
+integer（整型）
+float（浮点型）
+string（字符串）
+array（数组）
+object（对象）
+null（null）
+resource（资源）
+数据的三大范式优点：可以很大限度的合理的处理数据，减少数据的冗余
+linux 基本命令：
+shotdown -h now 关机
+logout 注销
+reboot 重启
+cd 打开文件
+ls 显示
+chmod -R 777 文件名 修改权限
+touch 修改
+mkdir 创建文件夹
+https://github.com/lhrockets/study.git  lhrockets  leihao1996...
